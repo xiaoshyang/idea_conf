@@ -30,9 +30,13 @@
           <option name="url" value="https://coding.jd.com/hiboos/yzt-charging.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-projects/spring-framework.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\admin360buyad\IdeaProjects\yzt" />
+    <option name="cloneParentDir" value="C:\Users\admin360buyad\IdeaProjects\spring" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
