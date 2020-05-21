@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'yzt-order'" />
-    <option name="defaultScopeName" value="Project 'yzt-order'" />
-    <option name="SEARCH_SCOPE" value="Project 'yzt-order'" />
+    <option name="customScope" value="File '...\yzt-order-common\src\main\java\com\yzt\order\util\CommonUtils.java [yzt-order-common]'" />
+    <option name="defaultScopeName" value="File '...\yzt-order-common\src\main\java\com\yzt\order\util\CommonUtils.java [yzt-order-common]'" />
+    <option name="SEARCH_SCOPE" value="File '...\yzt-order-common\src\main\java\com\yzt\order\util\CommonUtils.java [yzt-order-common]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
